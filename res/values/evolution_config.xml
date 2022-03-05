@@ -58,4 +58,8 @@
 
     <!-- Whether to show Assisted GPS switch in Locations settings -->
     <bool name="config_show_assisted_gps_switch">true</bool>
+
+    <!-- xdUI Base Layout -->
+    <color name="homepage_blaze_background">#536dfe</color>
+    <color name="xd_background1">@android:color/system_neutral1_50</color>
 </resources>
