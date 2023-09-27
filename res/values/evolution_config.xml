@@ -55,4 +55,7 @@
 
     <!-- Whether to show custom screen resolution settings -->
     <bool name="config_show_custom_screen_resolution_switch">true</bool>
+
+    <!-- Whether to show Assisted GPS switch in Locations settings -->
+    <bool name="config_show_assisted_gps_switch">true</bool>
 </resources>
